@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "./logo.svg";
+import matrixHoge from "./Matrix Hoge.gif";
 import "./App.css";
 
 /**
@@ -25,7 +26,8 @@ export default function App() {
       </div>
 
       <h1 className="text-2xl lg:text-5xl mb-10 text-right">
-        Welcome to Your New React App{" "}
+        <img src={matrixHoge} alt="hoge image"></img>
+        Welcome to a new Zem Hoge React App!{" "}
         <span className="block text-lg text-blue-400">on DigitalOcean</span>
       </h1>
 
