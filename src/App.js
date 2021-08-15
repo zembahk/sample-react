@@ -24,9 +24,9 @@ export default function App() {
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
         <img className="opacity-25" src={logo} alt="React Logo" width="300" />
       </div>
-
+      <center><img src={matrixHoge} alt="hoge image"></img></center>
       <h1 className="text-2xl lg:text-5xl mb-10 text-right">
-        <img src={matrixHoge} alt="hoge image"></img>
+        
         Welcome to a new Zem Hoge React App!{" "}
         <span className="block text-lg text-blue-400">on DigitalOcean</span>
       </h1>
