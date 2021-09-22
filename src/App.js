@@ -2,7 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import matrixHoge from "./Matrix Hoge.gif";
 import "./App.css";
-import Web3 from "web3";
+
 
 
 
